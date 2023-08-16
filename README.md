@@ -1,6 +1,9 @@
 # Introduction to Warpfusion
 
+
 In this session, you'll learn how to utilize Warpfusion to process video-to-video generations. Warpfusion utilizes Stable Diffusion to generate user customized images for each frame. We will be able to control and customize Stable Diffusion with several tools including ControlNet.
+
+<img width="597" alt="image" src="https://github.com/ai-kadhim/Introduction-to-Warpfusion/assets/37101144/2c3aae61-5a3b-4b16-bc52-b75c16c8a403">
 
 
 **Requirements:**
@@ -16,4 +19,3 @@ In this session, you'll learn how to utilize Warpfusion to process video-to-vide
 4. Check the box for `Skip Install` in part 1.3
 5. Restart the kernel and run all all of the cells from the beginning
 
-<img width="597" alt="image" src="https://github.com/ai-kadhim/Introduction-to-Warpfusion/assets/37101144/2c3aae61-5a3b-4b16-bc52-b75c16c8a403">
